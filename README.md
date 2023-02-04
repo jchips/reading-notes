@@ -1,5 +1,3 @@
-# jchips.github.io
-
 # Reading Notes
 
 **This is a page to keep track of my observations and questions from the reading assignments. It is a way to document and highlight my new knowledge**
@@ -8,7 +6,7 @@
 *Didn't take this course*
 
 ## Code 201 - Foundations of Software Development
-<sub>Feb. 4, 2023 - Apr. 6, 2023</sub>
+<sub>Feb. 4, 2023 - Apr. 6, 2023</sub>\
 ***Insert course reading notes here***
 
 ## Code 301 - Intermediate Software Development
