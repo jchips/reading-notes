@@ -7,7 +7,7 @@
 
 ## Code 201 - Foundations of Software Development
 <sub>Feb. 4, 2023 - Apr. 6, 2023</sub>\
-***Insert course reading notes here***
+[Link to class 1 reading notes](/class-01)
 
 ## Code 301 - Intermediate Software Development
 ***Insert course reading notes here***
