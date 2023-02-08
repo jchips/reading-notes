@@ -10,15 +10,14 @@ HTML, JavaScript and CSS are the main web development languages.
 
     Example from mdn:
 
-    My birthday is on the 25<sup>th</sup> of May 2001.
-    Caffeine's chemical formula is
-    C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>. If x<sup>2</sup> is 9, x must equal 3 or -3.
+    "My birthday is on the 25<sup>th</sup> of May 2001.
+    Caffeine's chemical formula is C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>. If x<sup>2</sup> is 9, x must equal 3 or -3."
 
-4. When using the abbreviation tag, you put the 'title' attribute to provide the full expansion of the term.
+4. When using the abbreviation tag ```<abbr>```, you put the 'title' attribute to provide the full expansion of the term.
 
 ## Learn CSS
 
-1. We can apply CSS to our HTML using the ```href``` attribute of the \<link> tag.
+1. We can apply CSS to our HTML using the ```href``` attribute of the ```<link>``` tag.
 2. We should avoid using inline styles bc of the separation of concerns. It is best practice to keep the different languages seperate.
 3. Review the block of code below...
     1. h1 is the selector
