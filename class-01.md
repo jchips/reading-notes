@@ -1,11 +1,15 @@
+# Class 1 notes
+
 The introduction to HTML and JavaScript matters because they are two of the main software developing languages, particularly web development. JavaScript is the main programming language for web developers. Understanding computers is important if we are going to be programming with them.
 
 1. HTTP: The browser sends a HTTP request to the server asking for a copy of the website to display for the client. The data being sent across the client and server is sent across the internet.
 2. The browser parses the HTML files first. Then it checks the \<link\> and \<script\> tags in the HTML file to find any CSS and JavaScript.
 3. To find images, go to Google Images and find an image. If you don't want it to be copyright, then use the filter and select Creative Commons licenses.
 4. A string in JavaScript has quotes around it and a number is just a number. EX:
-  1. Let string = "hello world";
-  2. Let num = 5;
+
+    * ```let string = "hello world";```
+    * ```let num = 5;```
+
 5. Variables are what we use to store values. We can create a variable using the let or const keywords. Variables can make your page dynamic.
 
 Introduction to HTML
