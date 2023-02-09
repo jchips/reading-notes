@@ -24,11 +24,11 @@ Lists, the box model, arrays, operators, conditionals and loops are important fo
 1. In arrays, we can store: strings, numbers, objects, null and other arrays.
 2. I think the people array is a valid JS array. You can access the values using bracket notation. For ex: ```people[0][0]``` should return 'pete' I think.
 3. 5 shorthand operators:
-    1. += adds to x (x = x + num)
-    2. -= subtracts from x (x = x - num)
-    3. *= multiplies to x (x = x * num)
-    4. &&= logical and (x && (x = num)) *[still don't really understand]*
-    5. ||= logical or (x || (x = num)) *[still don't really understand]*
+    1. ```+=``` adds to x (x = x + num)
+    2. ```-=``` subtracts from x (x = x - num)
+    3. ```*=``` multiplies to x (x = x * num)
+    4. ```&&=``` logical and (x && (x = num)) *[still don't really understand]*
+    5. ```||=``` logical or (x || (x = num)) *[still don't really understand]*
 4. The result would be '10dog' because the false doesn't add and the 10 is concatenating with the string.
 5. A conditional should be used in JS is when you want one thing to happen in one case, but a different thing to happen in another case. A real world example is if the user inputs 'cow' you want to return the word 'moo' but if a user inputs the word 'duck' you want to return 'quack.'
 6. A loop is useful is you want the same thing done multiple times in your code. For example, you want to keep asking the user to guess a number until they guess the correct number.
