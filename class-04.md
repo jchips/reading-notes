@@ -5,7 +5,7 @@ Topic matters because links are important for navigation through a site, positio
 ## Learn HTML
 
 1. We wrap text inside an anchor element ```<a>``` when creating a link.
-2. The link we want the user to have access to
+2. Inside the ```href``` attribute in the ```<a></a>``` tag goes the link we want the user to have access to
 3. To make links more accessible to users, we can use clear link wording. User descriptive link text.
 
 ## CSS Layout
