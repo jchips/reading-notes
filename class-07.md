@@ -1,6 +1,6 @@
 # Class 7 notes
 
-Constructors make creating objects simpler and table can be useful when sorting/organizing data in html.
+Constructors make creating objects simpler and tables can be useful when sorting/organizing data in HTML.
 
 ## Domain Modeling
 
