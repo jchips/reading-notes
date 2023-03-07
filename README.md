@@ -18,9 +18,13 @@
 
 [class 5 reading notes](/class-05.md) - Feb. 18th
 
-[class 6 reading notes](/class-06.md) - Feb. 21th
+[class 6 reading notes](/class-06.md) - Feb. 21st
 
 [class 7 reading notes](/class-07.md) - Feb. 25th
+
+[class 8 reading notes](/class-08.md) - Feb. 28th
+
+[class 9 reading notes](/class-09.md) - Mar. 4th
 
 ## Code 301 - Intermediate Software Development
 
