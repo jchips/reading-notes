@@ -26,6 +26,8 @@
 
 [class 9 reading notes](/class-09.md) - Mar. 4th
 
+[class 10 reading notes](/class-10.md) - Mar. 7th
+
 ## Code 301 - Intermediate Software Development
 
 ***Insert course reading notes here***
