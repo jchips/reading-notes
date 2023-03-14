@@ -1,6 +1,6 @@
 # Class 11 notes
 
-These topics matter because they help with the styling of a webpage and giving our page/site a better UI.
+These topics matter because they help with the styling of a webpage and gives our page/site a better UI.
 
 ## Video and Audio Content
 
@@ -19,3 +19,5 @@ These topics matter because they help with the styling of a webpage and giving o
 1. Images are responsive when they changed their size based on the width of the device they are being displayed on. This is important because devices come in different sizes so if we want our images to be viewed the same for everyone no matter what device they're using, we have to make our images responsive.
 2. The srcset attribute is for putting a number of photos at different sizes for the browser to choose from based on what size the browser is being displayed at. The sizes attribute says what image size would be best to choose based on media conditions that we set. Ex: ```srcset="img-480.jpg 480w, img-600.jpg 600px" sizes="(max-width: 500px) 480px, 600px"```
 3. The srcset attribute is more helpful than using CSS to make responsive images because in CSS if you use something like media queries it loads all the images even if you're only displaying one. With srcset the browser picks and choose which image to load. With JavaScript, you can't change the image before it loads on the page so if you tried to change the image size, it would load both images.
+
+## Things I want to know more about
