@@ -15,6 +15,6 @@ This topic can help make my sites more interesting and engaging.
 ## 8 Simple Transitions
 
 1. Transitions can increase engagement on your page which will make your page show up more in search results. They also just make your page look more exciting.
-2. This topic fits with my long term goals because it gives me ways to make my websites more interesting and show more of what I can do to clients and other developers.
+2. This topic fits with my long-term goals because it gives me ways to make my websites more interesting and show more of what I can do to clients and other developers.
 
 ## Things I want to know more about
