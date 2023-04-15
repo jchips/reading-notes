@@ -36,7 +36,7 @@
 
 ## Code 301 - Intermediate Software Development
 
-***Insert course reading notes here***
+[class 1 reading notes](/301-class-01.md) - Apr. 15th
 
 ## Code 401 - Advanced Software Development
 
