@@ -46,6 +46,8 @@
 
 [class 5 reading notes](/301-class-05.md) - Apr. 29th
 
+[class 6 reading notes](/301-class-06.md) - May 2nd
+
 ## Code 401 - Advanced Software Development
 
 ***Insert course reading notes here***
