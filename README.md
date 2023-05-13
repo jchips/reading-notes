@@ -52,6 +52,8 @@
 
 [class 8 reading notes](/301-class-08.md) - May 9th
 
+[class 9 reading notes](/301-class-09.md) - May 13th
+
 ## Code 401 - Advanced Software Development
 
 ***Insert course reading notes here***
