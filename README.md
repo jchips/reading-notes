@@ -64,6 +64,8 @@
 
 [class 14 reading notes](/301-class-14.md) - June 3rd
 
+[class 15 reading notes](/301-class-15.md) - June 5th
+
 ## Code 401 - Advanced Software Development
 
 ***Insert course reading notes here***
