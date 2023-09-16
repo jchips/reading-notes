@@ -68,4 +68,6 @@
 
 ## Code 401 - Advanced Software Development
 
+[pre work (SQL)](/401-pre-work.md) - Sep 16th
+
 ***Insert course reading notes here***
