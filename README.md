@@ -36,38 +36,40 @@
 
 ## Code 301 - Intermediate Software Development
 
-[class 1 reading notes](/301-class-01.md) - Apr. 15th
+[class 1 reading notes](/code-301/301-class-01.md) - Apr. 15th
 
-[class 2 reading notes](/301-class-02.md) - Apr. 18th
+[class 2 reading notes](/code-301/301-class-02.md) - Apr. 18th
 
-[class 3 reading notes](/301-class-03.md) - Apr. 22nd
+[class 3 reading notes](/code-301/301-class-03.md) - Apr. 22nd
 
-[class 4 reading notes](/301-class-04.md) - Apr. 25th
+[class 4 reading notes](/code-301/301-class-04.md) - Apr. 25th
 
-[class 5 reading notes](/301-class-05.md) - Apr. 29th
+[class 5 reading notes](/code-301/301-class-05.md) - Apr. 29th
 
-[class 6 reading notes](/301-class-06.md) - May 2nd
+[class 6 reading notes](/code-301/301-class-06.md) - May 2nd
 
-[class 7 reading notes](/301-class-07.md) - May 6th
+[class 7 reading notes](/code-301/301-class-07.md) - May 6th
 
-[class 8 reading notes](/301-class-08.md) - May 9th
+[class 8 reading notes](/code-301/301-class-08.md) - May 9th
 
-[class 9 reading notes](/301-class-09.md) - May 13th
+[class 9 reading notes](/code-301/301-class-09.md) - May 13th
 
-[class 10 reading notes](/301-class-10.md) - May 16th
+[class 10 reading notes](/code-301/301-class-10.md) - May 16th
 
-[class 11 reading notes](/301-class-11.md) - May 20th
+[class 11 reading notes](/code-301/301-class-11.md) - May 20th
 
-[class 12 reading notes](/301-class-12.md) - May 23rd
+[class 12 reading notes](/code-301/301-class-12.md) - May 23rd
 
-[class 13 reading notes](/301-class-13.md) - May 30th
+[class 13 reading notes](/code-301/301-class-13.md) - May 30th
 
-[class 14 reading notes](/301-class-14.md) - June 3rd
+[class 14 reading notes](/code-301/301-class-14.md) - June 3rd
 
-[class 15 reading notes](/301-class-15.md) - June 5th
+[class 15 reading notes](/code-301/301-class-15.md) - June 5th
 
 ## Code 401 - Advanced Software Development
 
-[pre work (SQL)](/401-pre-work.md) - Sep 16th
+[pre work (SQL)](/code-401/401-SQL.md) - Sep 16th
+
+[pre work (terminal)](/code-401/terminal.md) - Sep 18th
 
 ***Insert course reading notes here***
