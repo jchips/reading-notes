@@ -72,4 +72,6 @@
 
 [pre work (terminal)](/code-401/terminal.md) - Sep 18th
 
+[pre work (growth mindset)](/code-401/the-growth-mindset.md) - Sep. 30th
+
 ***Insert course reading notes here***
