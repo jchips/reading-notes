@@ -74,4 +74,6 @@
 
 [pre work (growth mindset)](/code-401/the-growth-mindset.md) - Sep. 30th
 
+[class 1 reading notes](/code-401/class-01.md) - Oct. 4th
+
 ***Insert course reading notes here***
