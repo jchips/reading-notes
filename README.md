@@ -34,7 +34,7 @@
 
 [class 13 reading notes](/code-201/class-13.md) - Mar. 18th
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development (Apr. 15, 2023 - June 17, 2023)
 
 [class 1 reading notes](/code-301/301-class-01.md) - Apr. 15th
 
@@ -66,7 +66,7 @@
 
 [class 15 reading notes](/code-301/301-class-15.md) - June 5th
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development (Oct. 2, 2023 - July 2024)
 
 [pre work (SQL)](/code-401/401-SQL.md) - Sep 16th
 
@@ -75,5 +75,7 @@
 [pre work (growth mindset)](/code-401/the-growth-mindset.md) - Sep. 30th
 
 [class 1 reading notes](/code-401/class-01.md) - Oct. 4th
+
+[class 2 reading notes](/code-401/class-02.md) - Oct. 12th
 
 ***Insert course reading notes here***
