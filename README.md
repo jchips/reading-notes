@@ -78,4 +78,6 @@
 
 [class 2 reading notes](/code-401/class-02.md) - Oct. 12th
 
+[class 4 reading notes](/code-401/class-04.md) - Oct. 31st
+
 ***Insert course reading notes here***
