@@ -46,6 +46,8 @@ Source of quotes: <https://expressjs.com/en/guide/routing.html>
 
     From what I understand, route middleware gets performed on every route made from the instance of its specific Express Router. So, everything that you put in your route middleware (`router.use(...)`) will happen on every request the user makes before it reaches the route.
 
+Source: <https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4>
+
 ## Reflection
 
 My learning goal is to be able to build a REST API using a Postgres database and Sequelize.
