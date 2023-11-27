@@ -66,18 +66,18 @@
 
 [class 15 reading notes](/code-301/301-class-15.md) - June 5th
 
-## Code 401 - Advanced Software Development (Oct. 2, 2023 - July 2024)
+## Code 401 - Advanced Software Development (Oct. 2, 2023 - July 2, 2024)
 
-[pre work (SQL)](/code-401/401-SQL.md) - Sep 16th
+<!-- [pre work (SQL)](/code-401/401-SQL.md) - Sep 16th
 
 [pre work (terminal)](/code-401/terminal.md) - Sep 18th
 
-[pre work (growth mindset)](/code-401/the-growth-mindset.md) - Sep. 30th
+[pre work (growth mindset)](/code-401/the-growth-mindset.md) - Sep. 30th -->
 
 [class 1 reading notes](/code-401/class-01.md) - Oct. 4th
 
 [class 2 reading notes](/code-401/class-02.md) - Oct. 12th
 
-[class 4 reading notes](/code-401/class-04.md) - Oct. 31st
+[class 3 reading notes](/code-401/class-03.md) - Oct. 31st
 
-***Insert course reading notes here***
+[class 4 reading notes](/code-401/class-04.md) - Oct. 31st
