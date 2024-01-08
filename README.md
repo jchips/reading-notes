@@ -83,3 +83,7 @@
 [class 4 reading notes](/code-401/class-04.md) - Oct. 31st
 
 [class 6 reading notes](/code-401/class-06.md) - Dec. 6th
+
+[class 7 reading notes](/code-401/class-07.md) - Sometime in Dec
+
+[class 8 reading notes](/code-401/class-08.md) - Jan. 2nd
