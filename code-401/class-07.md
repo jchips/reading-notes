@@ -30,7 +30,7 @@ If sending a JWT, what must sender and receiver both know? Hint, it’s appended
 
 Explain how concatenated content and secret can be sent and received securely to a non-technical recruiter.
 
-- You can imagine that the concatenated content is a message and the secret is something needed to read to the message. So, to send this information, you would encrypt the message so only the person who has the secret can read it. By doing this, you are signing it so that it the reciever can only read your message if they have the secret (and the message itself).
+- You can imagine that the concatenated content is a message and the secret is something needed to read to the message. So, to send this information, you would encrypt the message so only the person who has the secret can read it. By doing this, you are signing it so that the receiver can only read your message if they have the secret (and the message itself).
 
 Source: <https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure>
 
@@ -52,6 +52,6 @@ Source: <https://www.youtube.com/watch?v=926mknSW9Lo>
 
 ## Reflection
 
-- My learning goals for this class are understanding bearer authentication better.
+- My learning goal for this class is to understand bearer authentication better.
 
 ## Things I want to know more about

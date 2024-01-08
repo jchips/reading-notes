@@ -13,11 +13,11 @@ Describe a Role/Permission heirarchy that you might implement using RBAC.
 - Base level: maybe **guests** have permission to read data.
 - 2nd level: a **user** that can read and write data to their own profile and read public stuff.
 - 3rd level: a moderator has all the permissions the user has, can read and write access to user-generated content and can **moderate** and delete comments or posts.
-- Highest level: An **admin** has all permissions that the moderators do. They also have full control over user management (create, modify, delete users), full control over content management (create, modify, delete any content), and access to system configuration settings.
+- Highest level: An **admin** has all the permissions that the moderators do. They also have full control over user management (create, modify, delete users), full control over content management (create, modify, delete any content), and access to system configuration settings.
 
 What approach might you take to implement RBAC?
 
-- First, identifying the different roles and permissions. Then adding them to the table model. Then implementing the access control so that only people with certain roles can access what they have permission to. Then create tests and make sure they all pass.
+- First, identify the different roles and permissions. Then add them to the table model. Then implementing the access control so that only people with certain roles can access what they have permission to. Then create tests and make sure they all pass.
 
 Source: ChatGPT
 
@@ -35,7 +35,7 @@ Name three primary rules defined for RBAC.
 
 Describe RBAC to a non-technical friend.
 
-- RBAC aka role-based access control is when different roles can access different stuff or have permissions to do different things. For example, if you are a guest, you may only have permission to read information from something, but if you are an admin, you have permissions to read and write and access information that guests aren't allowed to. So, implementing RBAC is giving different people on a hiearchy different permissions and access.
+- RBAC aka role-based access control is when different roles can access different stuff or have permissions to do different things. For example, if you are a guest, you may only have permission to read information from something, but if you are an admin, you have permission to read, write, and access information that guests aren't allowed to. So, implementing RBAC is giving different people on a hierarchy different permissions and access.
 
 Source: <https://en.wikipedia.org/wiki/Role-based_access_control>
 
@@ -43,7 +43,7 @@ Source: <https://en.wikipedia.org/wiki/Role-based_access_control>
 
 What are access rights associated with? The User? or The Role? Explain.
 
-- Access rights are associated with the role. So, for each role, question what kind of resources do they need to have access to? Those become the access rights. The role is associated with the user I think.
+- Access rights are associated with the role. So, for each role, question what kind of resources do they need to have access to. Those become the access rights. The role is associated with the user I think.
 
 Access Rights, or Authorization, is activated after a user successfully does what?
 
@@ -51,7 +51,7 @@ Access Rights, or Authorization, is activated after a user successfully does wha
 
 Explain how RBAC might benefit a business.
 
-- As soon as a new employess comes in, their role is decided. So, policies don't have to be changed when new people come and go. They just get assigned a role and then have rights and permissions limited to that role.
+- As soon as a new employee comes in, their role is decided. So, policies don't have to be changed when new people come and go. They just get assigned a role and then have rights and permissions limited to that role.
 
 Source: <https://www.youtube.com/watch?v=C4NP8Eon3cA>
 
