@@ -28,6 +28,8 @@
 
 [class 11 reading notes](/code-401/class-11.md) - Feb. 11th
 
+[class 12 reading notes](/code-401/class-12.md) - Feb. 22th
+
 ## Code 301 - Intermediate Software Development (Apr. 15, 2023 - June 17, 2023)
 
 [class 1 reading notes](/code-301/301-class-01.md) - Apr. 15th
