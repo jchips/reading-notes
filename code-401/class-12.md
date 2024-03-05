@@ -52,12 +52,13 @@ What are a couple of key takeaways from this video?
 - Better understanding of protocols
 - What the different layers of the OSI model are (application, presentation, session, transport, network, data link, physical).
 - Different network applications (applications that use the internet) use different protocols.
+Source: <https://www.youtube.com/watch?v=vv4y_uOneC0>
 
 ## TCP Handshakes Explained
 
 Translate the gist of this video to a non-technical friend
 
-- The video explains what TCP is. It stands for transmission control protocol. A client requests to the server for a connection. The server accepts the request and then asks the client to open a connection too. The client accepts. Now there's a two-way connection established between them.
+- The video explains what TCP is. It stands for transmission control protocol. A client requests to the server for a connection. The server accepts the request and then asks the client to open a connection too. The client accepts. Now there's a two-way connection established between them. Source: <https://www.youtube.com/watch?v=xMtP5ZB3wSk>
 
 ## Reflection
 
