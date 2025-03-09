@@ -1,14 +1,12 @@
 # Reading Notes
 
-**This is a page to keep track of my observations and questions from the reading assignments. It is a way to document and highlight my new knowledge**
+This is a page to keep track of my observations and questions from the reading assignments. It is a way to document and highlight my new knowledge.
+
+## Python 401 - Python (March 1, 2025, Self-paced)
+
+[class 2 reading notes](/python-401/class-02.md) - Mar. 8th
 
 ## Code 401 - Advanced Software Development (Oct. 2, 2023 - July 2, 2024)
-
-<!-- [pre work (SQL)](/code-401/401-SQL.md) - Sep 16th
-
-[pre work (terminal)](/code-401/terminal.md) - Sep 18th
-
-[pre work (growth mindset)](/code-401/the-growth-mindset.md) - Sep. 30th -->
 
 [class 1 reading notes](/code-401/class-01.md) - Oct. 4th
 
@@ -106,4 +104,4 @@
 
 ## Code 102 - Intro to Software Development
 
-*Didn't take this course*
+_Did not take this course_

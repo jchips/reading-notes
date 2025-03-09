@@ -74,17 +74,17 @@ _ The browser will repaint the screen. This is called "browser rendering".
 
 1. Note the naming conventions in the Airbnb React/JSX Style Guide. What pattern(s) do you see?
 
-- .jsx extension for React components.
-- PascalCase for filenames and React components.
-- camelCase for instances of React components.
-- Prop names shouldn't be the same as DOM prop names (like `className` or `style`).
+    - .jsx extension for React components.
+    - PascalCase for filenames and React components.
+    - camelCase for instances of React components.
+    - Prop names shouldn't be the same as DOM prop names (like `className` or `style`).
 
 2. Looking ahead at this module’s course schedule, What do you look forward to learning?
 
-- Learning SASS because I already use SCSS with some projects but I don't use all its features yet, learning about Vite, and using the Reducer hook because I've used it before but I want more practice and a better understanding of it.
+    - Learning SASS because I already use SCSS with some projects but I don't use all its features yet, learning about Vite, and using the Reducer hook because I've used it before but I want more practice and a better understanding of it.
 
 3. What are your learning goals after reading and reviewing the class README?
 
-- My learning goal is to learn about Vite and understand SASS better.
+    - My learning goal is to learn about Vite and understand SASS better.
 
 ## Things I want to know more about
