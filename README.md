@@ -101,7 +101,3 @@ This is a page to keep track of my observations and questions from the reading a
 [class 12 reading notes](/code-201/class-12.md) - Mar. 14th
 
 [class 13 reading notes](/code-201/class-13.md) - Mar. 18th
-
-## Code 102 - Intro to Software Development
-
-_Did not take this course_

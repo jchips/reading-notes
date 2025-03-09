@@ -29,8 +29,11 @@ Source: [geeksforgeeks.org](https://www.geeksforgeeks.org/introduction-to-recurs
 A Python module is a single file that has the extension `.py`. It contains Python code such as functions, classes, or variables.
 
 A Python package is a collection of modules in a directory that has an `__init.py__` file. The presence of an `__init.py__` file represents that the directory is a package (even if the `__init.py__` nothing has nothing in it). TLDR: A Python package contains multiple modules.
+
 To create a module: Put legitimate Python code in a file and give the file a name with the py extension. EX: `file_name.py`.
+
 To import: A module's contents are accessed using import statements. EX: `import file_name` (imports file_name.py).
+
 To use a module: `file_name.fun()` calls a function named `fun()` from the file_name.py module. `print(file_name.s)` prints out a variable named `s` from the file_name.py module.
 
 Source: [realpython.com](https://realpython.com/python-modules-packages/)
